@@ -7,6 +7,8 @@ List = [
     1,5,6,7,2,4,3,8,9
 ]
 _
+
+
 print(max(List))
 
 print()

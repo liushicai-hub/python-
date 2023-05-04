@@ -1,34 +1,17 @@
-# print("I am saiban"); print("I am groot")
-#
-# print("I am \
+print("I am xiaoxiong"); print("I am alex")
+# print("I am
 # xiaobai")
 
 List = [
-    1,5,6,7,2,4,3,8,9
+    1,5,6,7,2,14,3,8,9
 ]
-_
-
 
 print(max(List))
 
 print()
+print('-'*80)
 
 '''
-1、课程内容简介
-2、安装实验环境
-3、19:00-21:30上课
-4、内部学员有录播
-5、NA/IA学员有python基础辅导
-6、EICCIE/数通HCIE 学员有自动化辅导
-7、EICCIE学员有在线实验台（如果你电脑不行）
-8、课程源代码gitee分享
-9、workbook完工之后开启预售，仅有纸质版
-10、计划五天课，实际希望五天讲完
-11、没有声音的抓紧调环境，我们已经测好了
-
-sw 1、2、3
-csr 1、3、桥接
-nms 1、2、5
 
 python对大小写敏感；
 缩进的时候对空格敏感；
@@ -44,7 +27,7 @@ python对大小写敏感；
 数据类型 —— 
 字符串  'saiban'   '12345'
 数字  整数\浮点数\复数  1 3 4 5 6  1.2  3.65
-    布尔 判断真假 true 1 /false 0 【数字的子类】
+布尔 判断真假 true 1 /false 0 【数字的子类】
 元组   不可变数据
 
 列表、字典、集合  为可变数据

@@ -1,6 +1,8 @@
 import math
 import random
 
+
+
 PI = math.pi  # 实例化圆周率
 print(PI)
 
@@ -8,7 +10,7 @@ x = pow(2, 8)  # 计算乘方
 y = 2 ** 8  # 计算乘方
 print(x == y)
 
-a = abs(1 - 3)
+a = abs(1 - 3)  #绝对值
 print(a)
 
 b1 = 5

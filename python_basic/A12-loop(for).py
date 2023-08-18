@@ -15,18 +15,4 @@ for i in range(0,10,2):
     print(i ,x[i])
 print('-'*60)
 
-"""
 
-作业，完成以下代码
-x = [0,1,2,3,4]
-for i in x:
-    print(i+1)
-    
-i = Sum = 0
-
-while i <= 10:
-    Sum += i
-    i = i + 1
-print(Sum)
-
-"""

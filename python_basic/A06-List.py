@@ -3,6 +3,12 @@ print(a[3])
 print(a)
 print(a[-1])
 
+a.append('alex')
+print(a)
+a.remove(2)
+del a[2]
+
+#如果列表有多个2 会remove第一个
 '''
 定义两个列表：
 a1= ['groot', 'saiban’]

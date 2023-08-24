@@ -19,7 +19,7 @@ for x in list1:
     result = re.match(".*(\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}):(\d{1,5}).*(\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}):(\d{1,5}).*bytes\s+(\d+).*flags\s+(\w*)\s*", x).groups()
     qyt_key = result[0], result[1], result[2], result[3]
     qyt_value = result[4], result[5]
-    dict1[qyt_key] = qyt_value
+    dict1[qyt_key] = q yt_value
 
 print("\n\n打印字典\n")
 print(dict1)

@@ -23,4 +23,4 @@ def paramiko_ssh(host, port=22, username='root', password='Cisc0123', cmd='ls'):
 
 
 if __name__ == '__main__':
-    print(paramiko_ssh('172.16.1.102'))
+    print(paramiko_ssh('10.13.255.24'))

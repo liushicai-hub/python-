@@ -1,0 +1,2 @@
+do show ip int br
+do show vlan brief
